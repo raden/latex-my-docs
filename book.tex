@@ -4,6 +4,7 @@
 
 \include{bluebox}
 \usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
 \usepackage{memhfixc}
 \usepackage{hyperref}
 \usepackage{url}
@@ -12,6 +13,10 @@
 \usepackage[labelfont={bf}, margin=1cm]{caption}
 \usepackage{textcomp}
 \usepackage{upquote}
+\usepackage{multicol}
+\usepackage{lscape}
+\usepackage{listings}
+%\usepackage{ucs}
 %\usepackage{footmisc}
 \usepackage[super,biblabel]{cite}
 
@@ -64,7 +69,6 @@
 \date{}
 \frontmatter
 \tableofcontents
-\newpage
 \listoffigures
 \include{preface}
 \include{penafian}
@@ -75,16 +79,16 @@
 \include{chap3}
 \include{chap4}
 \include{chap5}
+\include{chap9}
 \backmatter
 \bibliographystyle{is-plain}
-\bibliography{book.bib}
+\bibliography{bib-buku.bib}
 
 \include{ringkasan}
 \include{index}
 
 %\include{quran}
 %\include{bcover}
-\backmatter
 
 \end{document}
 
