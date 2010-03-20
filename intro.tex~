@@ -1,0 +1,69 @@
+
+\chapter{Pengenalan}
+\section{Pengenalan}
+\label{pengenalan}
+
+\LaTeX{} merupakan satu perisian \mbox{"}typesetting\mbox{"} yang dicipta oleh Leslie Lamport. \LaTeX{} berasal dari perisian \TeX{} yang ditulis oleh Donald Knuth, di mana Knuth tidak berpuas hati
+dengan mutu font perisian pemprosesan perkataan sewaktu itu.
+
+\subsection{Platform}
+\LaTeX{} boleh digunakan, di antaranya di dalam sistem operasi berikut:
+
+\begin{itemize}
+\item Microsoft Windows (menggunakan WinEdt, LEd dan Lyx)
+\item GNU/Linux (menggunakan \index{Kile|see{penyunting}}Kile, \index{Vim|see{penyunting}}VIM, \index{Emacs|see{penyunting}}Emacs dan lain-lain penyunting)
+\item Mac OS
+\end{itemize}
+
+%\paragraph
+Pemilihan \index{penyunting|textbf} yang digunakan bergantung kepada citarasa pengguna, dan ia adalah sangat subjektif. Seperti saya sendiri, kadang-kadang saya menggunakan Kile dan kadang-kadang hanya 
+menggunakan perisian ringan VIM. 
+
+\subsection{Sokongan}
+\LaTeX{} mempunyai peminat dan penyokongnya yang tersendiri, terdiri daripada khalayak yang menggunakannya secara intensif. Kebiasaannya, soalan teknikal berkaitan \LaTeX{} dibincangkan di dalam
+mailing list ataupun forum-forum di Internet. 
+
+\section{Sampel yang dihasilkan menggunakan \LaTeX}
+\LaTeX{} banyak digunakan samada oleh pelajar-pelajar universiti yang menyiapkan laporan projek, tesis ataupun artikel ataupun mereka yang berkecimpung di dalam bidang penulisan.
+
+
+\section{Font yang disokong oleh \LaTeX}
+\label{sokongan}
+\latex{} menyokong penggunaan font \index{Arab} Arab dan \index{Jawi} Jawi, selain daripada huruf Roman \footnote{memandangkan buku ini ditulis untuk pembaca berbahasa Melayu}
+Sebagai contoh untuk font Arab;\\\\
+
+
+\vocalize
+\arabtrue
+\begin{RLtext}
+\large{
+al-salAm `alaykum
+\setnash{al-salAm `alaykum,}
+\setnashbf{al-salAm `alaykum,}
+\setnastaliq{al-salAm `alaykum}
+}
+\end{RLtext}
+
+\hspace{1cm}
+
+Dan font Jawi;\\
+
+\novocalize
+\setmalay
+<cUbA lIht tUlIsn inI,>
+{\color{blue}\setnashbf{<cUbA lIht tUlIsn inI,>}}
+{\color{red}\setnastaliq{<cUbA lIht tUlIsn inI,>}}\\\\
+
+Selain itu, \latex{} juga boleh menggunakan pakej yang ditetapkan sendiri oleh pengguna (user-customized). 
+
+
+
+\section{Kenapa guna \LaTeX?}
+Ada beberapa sebab kenapa anda perlu mempertimbangkan untuk menggunakan \LaTeX{}, di antaranya ialah:
+
+\begin{itemize}
+\item sokongan perisian percuma, atau sekiranya anda mampu anda boleh membeli perisian komersial untuk membantu penulisan anda
+\item sokongan Bib\TeX{}, satu perisian yang membantu anda untuk mengatur letak \mbox{``}citation\mbox{''} pada penulisan anda
+\item susun atur nombor secara automatik, di mana anda tidak perlu risau tentang atur letak kepala dokumen anda (header)
+\item diterima sebagai satu piawaian (standard) sekiranya anda ingin menghantar artikel ataupun jurnal ke mana-mana seminar antarabangsa (sekiranya dinyatakan)
+\end{itemize}

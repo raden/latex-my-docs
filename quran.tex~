@@ -1,0 +1,15 @@
+\chead{\qframe}
+/%\rhead{\begin{RLtext}al-salAm `alaykum \end{RLtext}}
+\fancyfoot{}
+\setquran
+
+\juz=13
+\hizb=25
+\fourth=2
+
+\begin{RLtext}
+\sura{13}{}{}{43}
+
+\Large
+\noindent
+\end{RLtext}
