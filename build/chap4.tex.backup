@@ -1,0 +1,90 @@
+\chapter{Penulisan artikel}
+
+\section{Artikel komputer}
+Sekiranya anda terlibat di dalam penulisan artikel saintifik, ada kemungkinan di mana anda perlu memasukan kod sumber anda di dalam artikel anda. 
+Kita lihat contoh kod yang ditulis menggunakan bahasa Python di bawah:
+\bigskip
+
+\begin{minipage}{\textwidth}
+\begin{lstlisting}[frame=shadowbox,language=python]
+print "Hello World!"
+\end{lstlisting}
+\captionof{figure}{Hello World ringkas tanpa warna}
+\label{hello-simple}
+\end{minipage} \\
+
+Di samping itu, anda juga boleh menggunakan fungsi penyerlahan sintaks \textit{(syntax highlighting)} seperti tertera berikut:\\
+
+\begin{minipage}{\textwidth}
+\begin{Verbatim}[frame=single,commandchars=@\[\]]
+@PYay[print] @PYaB["]@PYaB[Hello, World!]@PYaB["] 
+\end{Verbatim}
+\captionof{figure}{Hello World ringkas dengan warna}
+\label{hello-colour}
+\end{minipage} \\
+
+Kita tengok contoh yang lain yang lebih panjang kodnya.
+
+\begin{minipage}{\textwidth}
+\begin{Verbatim}[frame=single,commandchars=@\[\]]
+@PYbc[import] @PYaV[gettext]
+gettext@PYbe[.]bindtextdomain (@PYaB[']@PYaB[piton]@PYaB['],@PYaB[']@PYaB[/usr/share/locale]@PYaB['])
+gettext@PYbe[.]textdomain(@PYaB[']@PYaB[piton]@PYaB['])
+_@PYbe[=] gettext@PYbe[.]gettext
+@PYay[print] _(@PYaB[']@PYaB[python adalah mudah]@PYaB['])
+@PYay[print] _(@PYaB[']@PYaB[semudah ini]@PYaB['])
+\end{Verbatim}
+\captionof{figure}{Kod lebih panjang dengan warna}
+\label{piton}
+\end{minipage} \\
+
+dalam contoh \ref{hello-simple}, \ref{hello-colour} dan \ref{piton} di atas, arahan \emph{verbatim} digunakan supaya set arahan itu tidak dilaksanakan oleh sistem, 
+sebaliknya dipaparkan ke dalam skrin.
+
+\section{Artikel dengan formula matematik}
+\latex{} boleh membantu anda menyiapkan kerja-kerja yang memerlukan anda memasukkan formula matematik, termasuklah penulisan saintifik, kertas soalan, mahupun peberbitan lain. 
+
+
+
+\subsection{Contoh formula matematik}
+Katakan anda ingin memasukkan punca kuasa dua di dalam dokumen anda.
+
+$\sqrt[2]{4} = 2$
+
+dalam perkara ini, kebiasaannya sintaks yang ingin ditukar kepada formula matematik diapit dengan tanda \mbox{\$}.
+
+Contohnya untuk menghasilkan formula tadi, kita tulis seperti berikut:\\
+
+\begin{Verbatim}[frame=single]
+ $\sqrt{4} = 2$
+\end{Verbatim}
+
+Di mana, dalam contoh di atas, oleh kerana kita ingin membuat punca kuasa dua, iaitu $\sqrt{4}$, maka kita letakkan nombor 4 di dalam kurungan tersebut \mbox{\{4\}}.
+Bagaimana sekiranya punca kuasa tiga, empat, dan seterusnya?\\
+
+$\sqrt[3]{8} = 2$\\
+
+dihasilkan dengan;\\
+
+\begin{Verbatim}[frame=single]
+ $\sqrt[3]{8} = 2$
+\end{Verbatim}
+
+dan,\\
+
+$\sqrt[4]{16} = 2$\\
+
+dengan\\
+
+\begin{Verbatim}[frame=single]
+ $\sqrt[4]{16} = 2$
+\end{Verbatim}
+
+%Pakej matematik di dalam \latex{} ialah menggunakan pakej \nomenclature{AMS}{American Mathematical Society} AMS.
+%Untuk itu, apa yang perlu anda lakukan ialah meletakkan \\
+
+%\begin{Verbatim}[frame=single]
+% \include{ams}
+%\end{Verbatim}
+
+%pada kepala dokumen anda.

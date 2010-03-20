@@ -1,0 +1,23 @@
+\chapter{Slaid persembahan}
+
+\section{Membuat slaid persembahan dengan \latex{} beamer}
+Kebiasaanya apabila kita mendengar \emph{presentation slides} maka yang terlintas di fikiran kita samada Microsoft(TM) PowerPoint ataupun OfficeOffice.org Impress.
+Sebenarnya, \latex{} juga mempunyai pakej persembahannya yang dipanggil \mbox{"}beaner\mbox{"}.
+
+Untuk pakej beamer, kita perlu mengisytiharkan penggunaan pakej beamer, sama seperti sebelum ini:\\
+
+\begin{Verbatim}[frame=single]
+ \usepackage{beamer}
+\end{Verbatim}
+
+\subsection{Bingkai (\emph{frame})}
+Di dalam beamer, setiap persembahan dipecahkan kepada beberapa bingkai atau di sini kita sebut sebagai frame. 
+
+Jadi, kita akan ada:\\
+
+\begin{Verbatim}[frame=single]
+ \begin{frame}
+  
+ \end{frame}
+\end{Verbatim}
+

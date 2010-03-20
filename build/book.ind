@@ -1,0 +1,38 @@
+\begin{theindex}
+\textbf{A}
+  \item Arab, \hyperpage{2}
+
+  \indexspace
+\textbf{B}
+  \item beamer, \hyperpage{17}
+
+  \indexspace
+\textbf{D}
+  \item dvi, \hyperpage{7}
+
+  \indexspace
+\textbf{F}
+  \item font, \hyperpage{9}
+
+  \indexspace
+\textbf{J}
+  \item Jawi, \hyperpage{2}
+
+  \indexspace
+\textbf{M}
+  \item matematik, \hyperpage{14}
+
+  \indexspace
+\textbf{P}
+  \item PDF, \hyperpage{7}
+  \item PDFLaTeX, \hyperpage{7}
+  \item pembelajaran, \hyperpage{5}
+  \item penyenaraian, \hyperpage{11}
+  \item penyunting, \textbf{1}
+    \subitem Emacs, \hyperpage{1}
+    \subitem Kile, \hyperpage{1}
+    \subitem Vim, \hyperpage{1}
+  \item persembahan, \hyperpage{17}
+  \item Punca kuasa, \hyperpage{14}
+
+\end{theindex}

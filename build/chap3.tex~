@@ -1,0 +1,39 @@
+\chapter{Membuat senarai}
+\section{Bina senarai menggunakan \latex{}}
+\latex{} membolehkan anda membuat \index{penyenaraian}penyenaraian \emph{bullet} dengan menggunakan arahan \mbox{\"\item\"}.
+Contoh output adalah seperti berikut:\\
+
+\begin{itemize}
+\item satu
+\item dua
+\item tiga
+\end{itemize}
+
+yang sebenarnya adalah:\\
+
+\begin{Verbatim}[frame=single]
+\begin{itemize}
+\item satu
+\item dua
+\item tiga
+\end{itemize}
+\end{Verbatim}
+
+selain itu, ada juga \emph{description} untuk membolehkan anda membuat penjelasan untuk perkara yang di\emph{bold}kan
+
+\begin{description}
+\item [satu] adalah nombor
+\item [dua] adalah nombor selepas satu
+\item [tiga] adalah nombor selepas tiga
+\end{description}
+
+
+\begin{Verbatim}[frame=single]
+\begin{description}
+\item [satu] adalah nombor
+\item [dua] adalah nombor selepas satu
+\item [tiga] adalah nombor selepas tiga
+\end{description}
+\end{Verbatim}
+
+
