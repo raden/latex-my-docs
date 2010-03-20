@@ -1,8 +1,8 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2010.3.19)  20 MAR 2010 17:31
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2010.3.19)  20 MAR 2010 18:09
 entering extended mode
  %&-line parsing enabled.
-**book.tex
-(./book.tex
+**../book.tex
+(../book.tex
 LaTeX2e <2005/12/01>
 Babel <v3.8h> and hyphenation patterns for english, usenglishmax, dumylang, noh
 yphenation, arabic, farsi, loaded.
@@ -322,44 +322,11 @@ Package parskip emulated by memoir.
 \@input{bluebox.aux}
 \openout2 = `bluebox.aux'.
 
-(./bluebox.tex (/usr/share/texmf-texlive/tex/latex/psnfss/helvet.sty
-Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
-
-(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
-\KV@toks@=\toks22
-))
-(/usr/share/texmf-texlive/tex/latex/graphics/color.sty
-Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
-
-(/etc/texmf/tex/latex/config/color.cfg
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
-)
-Package color Info: Driver file: pdftex.def on input line 130.
-
-(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
-\Gread@gobject=\count132
-))
-(/usr/share/texmf-texlive/tex/latex/tools/calc.sty
-Package: calc 2005/08/06 v4.2 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count133
-\calc@Bcount=\count134
-\calc@Adimen=\dimen144
-\calc@Bdimen=\dimen145
-\calc@Askip=\skip192
-\calc@Bskip=\skip193
-LaTeX Info: Redefining \setlength on input line 75.
-LaTeX Info: Redefining \addtolength on input line 76.
-\calc@Ccount=\count135
-\calc@Cskip=\skip194
-)
-\ChpNumBox=\box28
-)
+No file bluebox.tex.
 (/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
 Package: inputenc 2006/05/05 v1.1b Input encoding file
-\inpenc@prehook=\toks23
-\inpenc@posthook=\toks24
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
 
 (/usr/share/texmf-texlive/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
@@ -370,10 +337,10 @@ Package: ucs 2004/10/17 UCS: Unicode input support
 (/usr/share/texmf-texlive/tex/latex/ucs/data/uni-global.def
 File: uni-global.def 2004/10/17 UCS: Unicode global data
 )
-\uc@secondtry=\count136
-\uc@combtoks=\toks25
-\uc@combtoksb=\toks26
-\uc@temptokena=\toks27
+\uc@secondtry=\count132
+\uc@combtoks=\toks24
+\uc@combtoksb=\toks25
+\uc@temptokena=\toks26
 )
 (/usr/share/texmf-texlive/tex/latex/memoir/memhfixc.sty
 Package: memhfixc 2006/11/22 v1.9 nameref/hyperref package fixes for memoir cla
@@ -381,9 +348,14 @@ ss
 )
 (/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2007/02/07 v6.75r Hypertext links for LaTeX
-\@linkdim=\dimen146
-\Hy@linkcounter=\count137
-\Hy@pagecounter=\count138
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks27
+)
+\@linkdim=\dimen144
+\Hy@linkcounter=\count133
+\Hy@pagecounter=\count134
 
 (/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2007/02/07 v6.75r Hyperref: PDFDocEncoding definition (HO)
@@ -408,9 +380,9 @@ Package hyperref Info: Bookmarks ON on input line 2444.
 Package: url 2005/06/27  ver 3.2  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 2599.
-\Fld@menulength=\count139
-\Field@Width=\dimen147
-\Fld@charsize=\dimen148
+\Fld@menulength=\count135
+\Field@Width=\dimen145
+\Fld@charsize=\dimen146
 \Choice@toks=\toks28
 \Field@toks=\toks29
 Package hyperref Info: Hyper figures OFF on input line 3102.
@@ -418,37 +390,37 @@ Package hyperref Info: Link nesting OFF on input line 3107.
 Package hyperref Info: Hyper index ON on input line 3110.
 Package hyperref Info: backreferencing OFF on input line 3117.
 Package hyperref Info: Link coloring OFF on input line 3122.
-\Hy@abspage=\count140
-\c@Item=\count141
+\Hy@abspage=\count136
+\c@Item=\count137
 )
 *hyperref using default driver hpdftex*
 (/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2007/02/07 v6.75r Hyperref driver for pdfTeX
-\Fld@listcount=\count142
+\Fld@listcount=\count138
 )
 (/usr/share/texmf-texlive/tex/latex/listings/listings.sty
-\lst@mode=\count143
-\lst@gtempboxa=\box29
+\lst@mode=\count139
+\lst@gtempboxa=\box28
 \lst@token=\toks30
-\lst@length=\count144
-\lst@currlwidth=\dimen149
-\lst@column=\count145
-\lst@pos=\count146
-\lst@lostspace=\dimen150
-\lst@width=\dimen151
-\lst@newlines=\count147
-\lst@lineno=\count148
-\c@lstlisting=\count149
-\lst@maxwidth=\dimen152
+\lst@length=\count140
+\lst@currlwidth=\dimen147
+\lst@column=\count141
+\lst@pos=\count142
+\lst@lostspace=\dimen148
+\lst@width=\dimen149
+\lst@newlines=\count143
+\lst@lineno=\count144
+\c@lstlisting=\count145
+\lst@maxwidth=\dimen150
 
 (/usr/share/texmf-texlive/tex/latex/listings/lstpatch.sty
 File: lstpatch.sty 2004/10/17 1.3b (Carsten Heinz)
 )
 (/usr/share/texmf-texlive/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2004/09/07 1.3 (Carsten Heinz)
-\c@lstnumber=\count150
-\lst@skipnumbers=\count151
-\lst@framebox=\box30
+\c@lstnumber=\count146
+\lst@skipnumbers=\count147
+\lst@framebox=\box29
 )
 (/usr/share/texmf-texlive/tex/latex/listings/listings.cfg
 File: listings.cfg 2004/09/05 1.3 listings configuration
@@ -457,13 +429,13 @@ Package: listings 2004/10/17 1.3b (Carsten Heinz)
 
 (/usr/share/texmf-texlive/tex/latex/geometry/geometry.sty
 Package: geometry 2002/07/08 v3.2 Page Geometry
-\Gm@cnth=\count152
-\Gm@cntv=\count153
-\c@Gm@tempcnt=\count154
-\Gm@bindingoffset=\dimen153
-\Gm@wd@mp=\dimen154
-\Gm@odd@mp=\dimen155
-\Gm@even@mp=\dimen156
+\Gm@cnth=\count148
+\Gm@cntv=\count149
+\c@Gm@tempcnt=\count150
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
 \Gm@dimlist=\toks31
 
 (/usr/share/texmf-texlive/tex/xelatex/xetexconfig/geometry.cfg))
@@ -472,12 +444,12 @@ Package: caption 2007/01/07 v3.0k Customising captions (AR)
 
 (/usr/share/texmf-texlive/tex/latex/caption/caption3.sty
 Package: caption3 2007/01/07 v3.0k caption3 kernel (AR)
-\captionmargin=\dimen157
-\captionmarginx=\dimen158
-\captionwidth=\dimen159
-\captionindent=\dimen160
-\captionparindent=\dimen161
-\captionhangindent=\dimen162
+\captionmargin=\dimen155
+\captionmarginx=\dimen156
+\captionwidth=\dimen157
+\captionindent=\dimen158
+\captionparindent=\dimen159
+\captionhangindent=\dimen160
 )
 Package caption Info: hyperref package v6.74m (or newer) detected on input line
  304.
@@ -562,22 +534,22 @@ Package: cite 2003/11/04  v 4.01
 LaTeX Info: Redefining \cite on input line 282.
 )
 (/usr/share/texmf-texlive/tex/latex/fancyhdr/fancyhdr.sty
-\fancy@headwidth=\skip195
-\f@ncyO@elh=\skip196
-\f@ncyO@erh=\skip197
-\f@ncyO@olh=\skip198
-\f@ncyO@orh=\skip199
-\f@ncyO@elf=\skip200
-\f@ncyO@erf=\skip201
-\f@ncyO@olf=\skip202
-\f@ncyO@orf=\skip203
+\fancy@headwidth=\skip192
+\f@ncyO@elh=\skip193
+\f@ncyO@erh=\skip194
+\f@ncyO@olh=\skip195
+\f@ncyO@orh=\skip196
+\f@ncyO@elf=\skip197
+\f@ncyO@erf=\skip198
+\f@ncyO@olf=\skip199
+\f@ncyO@orf=\skip200
 )
 (/usr/share/texmf-texlive/tex/latex/arabtex/arabtex.sty
 (/usr/share/texmf-texlive/tex/latex/arabtex/aconfig.sty
 LaTeX2e detected 
 BABEL detected
-\a@moduledate=\count155
-\a@maindate=\count156
+\a@moduledate=\count151
+\a@maindate=\count152
 )
 (/usr/share/texmf-texlive/tex/latex/arabtex/arabaux.sty)
 
@@ -618,26 +590,19 @@ Arabic processor `ArabTeX' [20060702 patch level 3.11s (02.07.2006)]
 \@input{pygments.aux}
 \openout2 = `pygments.aux'.
 
-(./pygments.tex (/usr/share/texmf-texlive/tex/latex/fancyvrb/fancyvrb.sty
-Package: fancyvrb 1998/07/17
-
-Style option: `fancyvrb' v2.6, with DG/SPQR fixes <1998/07/17> (tvz)
-\FV@CodeLineNo=\count186
-\FV@InFile=\read2
-\FV@TabBox=\box46
-\c@FancyVerbLine=\count187
-\FV@StepNumber=\count188
-\FV@OutFile=\write6
-
-No file fancyvrb.cfg.
-)) (/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+No file pygments.tex.
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
 (/etc/texmf/tex/latex/config/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
-LaTeX Info: Redefining \color on input line 702.
+
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2007/01/08 v0.04d Graphics/color for pdfTeX
+\Gread@gobject=\count182
+)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
 Package xcolor Info: Model `RGB' extended on input line 1353.
@@ -662,8 +627,8 @@ File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 90.
 )
-\Gin@req@height=\dimen185
-\Gin@req@width=\dimen186
+\Gin@req@height=\dimen183
+\Gin@req@width=\dimen184
 )
 (/usr/share/texmf-texlive/tex/generic/babel/babel.sty
 Package: babel 2005/11/23 v3.8h The Babel package
@@ -674,8 +639,8 @@ m
 
 (/usr/share/texmf-texlive/tex/generic/babel/babel.def
 File: babel.def 2005/11/23 v3.8h Babel common definitions
-\babel@savecnt=\count189
-\U@D=\dimen187
+\babel@savecnt=\count183
+\U@D=\dimen185
 )
 
 Package babel Warning: No hyphenation patterns were loaded for
@@ -685,17 +650,17 @@ Package babel Warning: No hyphenation patterns were loaded for
 \l@malay = a dialect from \language0
 )) (/usr/share/texmf-texlive/tex/latex/nomencl/nomencl.sty
 Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
-\nomlabelwidth=\dimen188
-\nom@tempdim=\dimen189
-\nomitemsep=\skip206
+\nomlabelwidth=\dimen186
+\nom@tempdim=\dimen187
+\nomitemsep=\skip203
 )
-\@nomenclaturefile=\write7
-\openout7 = `book.nlo'.
+\@nomenclaturefile=\write6
+\openout6 = `book.nlo'.
 
 
 Writing nomenclature file book.nlo
-\book@idxfile=\write8
-\openout8 = `book.idx'.
+\book@idxfile=\write7
+\openout7 = `book.idx'.
 
 Writing index file book.idx 
 (./book.aux (./preface.aux) (./penafian.aux) (./intro.aux) (./chap1.aux)
@@ -724,19 +689,7 @@ File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 54.
 
-(/usr/share/texmf/tex/context/base/supp-pdf.tex
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count190
-\scratchdimen=\dimen190
-\scratchbox=\box47
-\nofMPsegments=\count191
-\nofMParguments=\count192
-\everyMPshowfont=\toks52
-\MPscratchCnt=\count193
-\MPscratchDim=\dimen191
-\MPnumerator=\count194
-\everyMPtoPDFconversion=\toks53
-) (/usr/share/texmf-texlive/tex/latex/ucs/ucsencs.def
+(/usr/share/texmf-texlive/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2003/11/29 Fixes to fontencodings LGR, T3
 )
 Package hyperref Info: Link coloring OFF on input line 54.
@@ -747,14 +700,14 @@ Package: nameref 2006/12/27 v2.28 Cross-referencing by name of section
 (/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
 Package: refcount 2006/02/20 v3.0 Data extraction from references (HO)
 )
-\c@section@level=\count195
+\c@section@level=\count184
 )
 LaTeX Info: Redefining \ref on input line 54.
 LaTeX Info: Redefining \pageref on input line 54.
  (./book.out)
 (./book.out)
-\@outlinefile=\write9
-\openout9 = `book.out'.
+\@outlinefile=\write8
+\openout8 = `book.out'.
 
 -------------------- Geometry parameters
 paper: class default
@@ -802,477 +755,129 @@ Package: ragged2e 2003/03/25 v2.04 ragged2e Package (MS)
 Package: everysel 1999/06/08 v1.03 EverySelectfont Package (MS)
 LaTeX Info: Redefining \selectfont on input line 125.
 )
-\CenteringLeftskip=\skip207
-\RaggedLeftLeftskip=\skip208
-\RaggedRightLeftskip=\skip209
-\CenteringRightskip=\skip210
-\RaggedLeftRightskip=\skip211
-\RaggedRightRightskip=\skip212
-\CenteringParfillskip=\skip213
-\RaggedLeftParfillskip=\skip214
-\RaggedRightParfillskip=\skip215
-\JustifyingParfillskip=\skip216
-\CenteringParindent=\skip217
-\RaggedLeftParindent=\skip218
-\RaggedRightParindent=\skip219
-\JustifyingParindent=\skip220
+\CenteringLeftskip=\skip204
+\RaggedLeftLeftskip=\skip205
+\RaggedRightLeftskip=\skip206
+\CenteringRightskip=\skip207
+\RaggedLeftRightskip=\skip208
+\RaggedRightRightskip=\skip209
+\CenteringParfillskip=\skip210
+\RaggedLeftParfillskip=\skip211
+\RaggedRightParfillskip=\skip212
+\JustifyingParfillskip=\skip213
+\CenteringParindent=\skip214
+\RaggedLeftParindent=\skip215
+\RaggedRightParindent=\skip216
+\JustifyingParindent=\skip217
 )
-(/usr/share/texmf-texlive/tex/latex/arabtex/apatch.sty
-\a@lines=\count196
-\a@Lwidth=\dimen192
-\a@displaywidth=\dimen193
+(/usr/share/texmf/tex/context/base/supp-pdf.tex
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count185
+\scratchdimen=\dimen188
+\scratchbox=\box45
+\nofMPsegments=\count186
+\nofMParguments=\count187
+\everyMPshowfont=\toks52
+\MPscratchCnt=\count188
+\MPscratchDim=\dimen189
+\MPnumerator=\count189
+\everyMPtoPDFconversion=\toks53
+) (/usr/share/texmf-texlive/tex/latex/arabtex/apatch.sty
+\a@lines=\count190
+\a@Lwidth=\dimen190
+\a@displaywidth=\dimen191
 
 (/usr/share/texmf-texlive/tex/latex/arabtex/alocal.sty
 (ArabTeX) 3.11 local stub, 26.02.2006)
-(ArabTeX) version 3.11s (02.07.2006): second phase of patching)
+(ArabTeX) version 3.11s (02.07.2006): second phase of patching) (./book.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 67.
+(Font)              <7> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 67.
-
-
-Package xcolor Warning: Incompatible color definition on input line 67.
-
-(./book.toc [1
-
-
-
-
-
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
-
-Class memoir Warning: The \sl font command is deprecated. 
-(memoir)              Use \textsl{...} or {\slshape... } instead on input line 
-67.
-
-[2]
-
-Package xcolor Warning: Incompatible color definition on input line 69.
-
-(./book.lof) [3]
-\openout2 = `preface.aux'.
-
- (./preface.tex [4
-
-
-]
-
-Package xcolor Warning: Incompatible color definition on input line 1.
-
-) [5]
-\openout2 = `penafian.aux'.
-
- (./penafian.tex [6
-
-
-
-]
-
-Package xcolor Warning: Incompatible color definition on input line 1.
-
-
-Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
-(hyperref)                removing `\new@ifnextchar' on input line 1.
-
-) [7] [8
-
-
-]
-\openout2 = `intro.aux'.
-
- (./intro.tex
-
-Package xcolor Warning: Incompatible color definition on input line 2.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 26.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 26.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 26.
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--34
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 32--34
-
- []
-
+(Font)              <5> on input line 2.
+)
 [1
 
 
-]
-LaTeX Font Info:    Try loading font information for U+xnsh on input line 38.
- (/usr/share/texmf-texlive/tex/latex/arabtex/Uxnsh.fd
-File: uxnsh.fd  1999/10/19 v3.10 ArabTeX Naskh extd. font definitions
-)
-LaTeX Font Info:    Font shape `U/xnsh/m/n' will be
-(Font)              scaled to size 14.40002pt on input line 38.
-LaTeX Font Info:    Font shape `U/xnsh/m/n' will be
-(Font)              scaled to size 15.76802pt on input line 39.
-LaTeX Font Info:    Font shape `U/xnsh/bx/n' will be
-(Font)              scaled to size 15.76802pt on input line 44.
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
-
- []
-
-LaTeX Font Info:    Font shape `U/xnsh/bx/n' will be
-(Font)              scaled to size 14.40002pt on input line 54.
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--56
-
- []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--56
-
- []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./book.lof) [2]
+\openout2 = `preface.aux'.
 
- []
 
+No file preface.tex.
+\openout2 = `penafian.aux'.
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--89
+No file penafian.tex.
+\openout2 = `intro.aux'.
 
- []
-
-[2]) [3]
+No file intro.tex.
 \openout2 = `chap1.aux'.
 
- (./chap1.tex [4
-
-
-
-]
-
-Package xcolor Warning: Incompatible color definition on input line 1.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <20.74> on input line 1.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 1.
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
-
- []
-
-
-Overfull \hbox (15.0pt too wide) in paragraph at lines 15--23
-[]$[]$ 
- []
-
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 39--41
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 50--52
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 63--64
-
- []
-
-<artikel-saya.png, id=238, 242.9075pt x 175.65625pt>
-File: artikel-saya.png Graphic file (type png)
- <use artikel-saya.png>
-Overfull \hbox (15.0pt too wide) in paragraph at lines 65--71
-[]$[]$ 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
-
- []
-
-[6 <./artikel-saya.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 80--83
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
-
- []
-
-
-Overfull \hbox (15.0pt too wide) in paragraph at lines 91--103
-[]$[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 104--105
-
- []
-
-) [7]
+No file chap1.tex.
 \openout2 = `chap2.aux'.
 
- (./chap2.tex [8
-
-
-
-]
-
-Package xcolor Warning: Incompatible color definition on input line 1.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--19
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--29
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
-
- []
-
-[9]
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
-
- []
-
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 48.
-(/usr/share/texmf-texlive/tex/latex/psnfss/ot1phv.fd
-File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
-)
-LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 48.
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--52
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
-
- []
-
-) [10]
+No file chap2.tex.
 \openout2 = `chap3.aux'.
 
- (./chap3.tex
-
-Package xcolor Warning: Incompatible color definition on input line 1.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--5
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
-
- []
-
-[11
-
-
-
-]) [12]
+No file chap3.tex.
 \openout2 = `chap4.aux'.
 
- (./chap4.tex
-
-Package xcolor Warning: Incompatible color definition on input line 1.
-
-(/usr/share/texmf-texlive/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2004/09/05 1.3 listings language file
-)
-LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10> not available
-(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 10.
-
-Overfull \hbox (15.0pt too wide) in paragraph at lines 8--15
-[]$[]$ 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--15
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--17
-
- []
-
-
-Overfull \hbox (15.0pt too wide) in paragraph at lines 18--25
-[]$[]$ 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--25
-
- []
-
-LaTeX Font Info:    Try loading font information for TS1+cmtt on input line 31.
-
-(/usr/share/texmf-texlive/tex/latex/base/ts1cmtt.fd
-File: ts1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-Overfull \hbox (15.0pt too wide) in paragraph at lines 28--40
-[]$[]$ 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--40
-
- []
-
-[13
-
-
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
-
- []
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 64.
-(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 64.
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--66
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--88
-
- []
-
-[14]) [15]
+No file chap4.tex.
 \openout2 = `chap5.aux'.
 
- (./chap5.tex [16
-
-
-
-]
-
-Package xcolor Warning: Incompatible color definition on input line 1.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-
- []
-
-[17] <beamer.png, id=333, 364.2408pt x 273.1806pt>
-File: beamer.png Graphic file (type png)
- <use beamer.png>)
-Overfull \hbox (15.0pt too wide) in paragraph at lines 65--77
-[]$[]$ 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [18]
-[19 <./beamer.png (PNG copy)>] [20
-
-
-] (./book.bbl
-
-Package xcolor Warning: Incompatible color definition on input line 1.
-
+No file chap5.tex.
+(./book.bbl
 bibitemlist
-) [21
+) [1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ]
 \openout2 = `ringkasan.aux'.
 
- (./ringkasan.tex) (./book.nls [22
 
-
-]
-
-Package xcolor Warning: Incompatible color definition on input line 1.
-
-) [23]
+No file ringkasan.tex.
 \openout2 = `index.aux'.
 
- (./index.tex (./book.ind [24
+(/usr/share/texmf-texlive/tex/generic/midnight/index.tex) [2
 
 
 
-]
-
-Package xcolor Warning: Incompatible color definition on input line 1.
-
-[25
-
-
-])) [26
-
-
-\@@wrindexm@m{book}{mainentry # subentry|hyperpage}{26}
-\@@wrindexm@m{book}{title|hyperpage}{26}
 
 
 ]
-\tf@toc=\write10
-\openout10 = `book.toc'.
+\tf@toc=\write9
+\openout9 = `book.toc'.
 
-\tf@lof=\write11
-\openout11 = `book.lof'.
+\tf@lof=\write10
+\openout10 = `book.lof'.
 
- (./book.aux (./preface.aux) (./penafian.aux) (./intro.aux) (./chap1.aux)
-(./chap2.aux) (./chap3.aux) (./chap4.aux) (./chap5.aux) (./ringkasan.aux)
-(./index.aux))
+ (./book.aux
+(./preface.aux) (./penafian.aux) (./intro.aux) (./chap1.aux) (./chap2.aux)
+(./chap3.aux) (./chap4.aux) (./chap5.aux) (./ringkasan.aux) (./index.aux))
 
  *File List*
   memoir.cls    2005/09/25 v1.618 configurable document class
    mem10.clo    2002/07/27 v0.2 memoir class 10pt size option
 mempatch.sty    2007/01/22 v4.8 Patches for memoir class v1.618
- bluebox.tex
-  helvet.sty    2005/04/12 PSNFSS-v9.2a (WaS) 
-  keyval.sty    1999/03/16 v1.13 key=value parser (DPC)
-   color.sty    1999/02/16
-   color.cfg    2007/01/18 v1.5 color configuration of teTeX/TeXLive
-  pdftex.def    2007/01/08 v0.04d Graphics/color for pdfTeX
-    calc.sty    2005/08/06 v4.2 Infix arithmetic (KKT,FJ)
 inputenc.sty    2006/05/05 v1.1b Input encoding file
    utf8x.def    2004/10/17 UCS: Input encoding UTF-8
      ucs.sty    2004/10/17 UCS: Unicode input support
@@ -1280,6 +885,7 @@ uni-global.def    2004/10/17 UCS: Unicode global data
 memhfixc.sty    2006/11/22 v1.9 nameref/hyperref package fixes for memoir class
 
 hyperref.sty    2007/02/07 v6.75r Hypertext links for LaTeX
+  keyval.sty    1999/03/16 v1.13 key=value parser (DPC)
   pd1enc.def    2007/02/07 v6.75r Hyperref: PDFDocEncoding definition (HO)
 hyperref.cfg    2002/06/06 v1.2 hyperref configuration of TeXLive
 kvoptions.sty    2006/08/22 v2.4 Connects package keyval with LaTeX options (HO
@@ -1325,10 +931,9 @@ arabchrs.sty    1998/07/11  3.07 letter token definitions
   alists.sty    2003/04/26  3.11 inverted list macros
    asect.sty    2003/04/26  3.11 section macros for Arabic
    atabg.sty    1997/01/21  3.05 LaTeX tabbing macros for Arabic
-pygments.tex
-fancyvrb.sty    1998/07/17
   xcolor.sty    2007/01/21 v2.11 LaTeX color extensions (UK)
    color.cfg    2007/01/18 v1.5 color configuration of teTeX/TeXLive
+  pdftex.def    2007/01/08 v0.04d Graphics/color for pdfTeX
 graphicx.sty    1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 graphics.sty    2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
     trig.sty    1999/03/16 v1.09 sin cos tan (DPC)
@@ -1337,7 +942,6 @@ graphics.cfg    2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
  bahasam.ldf    2005/11/23 v1.0j Bahasa Malaysia support from the babel system
  nomencl.sty    2005/09/22 v4.2 Nomenclature package (LN)
   ts1cmr.fd    1999/05/25 v2.5h Standard LaTeX font definitions
-supp-pdf.tex
  ucsencs.def    2003/11/29 Fixes to fontencodings LGR, T3
  nameref.sty    2006/12/27 v2.28 Cross-referencing by name of section
 refcount.sty    2006/02/20 v3.0 Data extraction from references (HO)
@@ -1345,61 +949,28 @@ refcount.sty    2006/02/20 v3.0 Data extraction from references (HO)
     book.out
 ragged2e.sty    2003/03/25 v2.04 ragged2e Package (MS)
 everysel.sty    1999/06/08 v1.03 EverySelectfont Package (MS)
+supp-pdf.tex
   apatch.sty    2006/07/02  3.11s last minute patches 
- preface.tex
-penafian.tex
-   intro.tex
-   Uxnsh.fd
-   chap1.tex
-artikel-saya.png    Graphic file (type png)
-   chap2.tex
-  ot1phv.fd    2001/06/04 scalable font definitions for OT1/phv.
-   chap3.tex
-   chap4.tex
-lstlang1.sty    2004/09/05 1.3 listings language file
- ts1cmtt.fd    1999/05/25 v2.5h Standard LaTeX font definitions
-  omscmr.fd    1999/05/25 v2.5h Standard LaTeX font definitions
-   chap5.tex
-  beamer.png    Graphic file (type png)
     book.bbl
-ringkasan.tex
-    book.nls
    index.tex
-    book.ind
  ***********
 
  ) 
 Here is how much of TeX's memory you used:
- 12766 strings out of 95077
- 165407 string characters out of 1182975
- 290531 words of memory out of 1500000
- 15525 multiletter control sequences out of 10000+50000
- 16798 words of font info for 53 fonts, out of 1200000 for 2000
+ 11511 strings out of 95077
+ 149314 string characters out of 1182975
+ 272203 words of memory out of 1500000
+ 14447 multiletter control sequences out of 10000+50000
+ 5666 words of font info for 21 fonts, out of 1200000 for 2000
  28 hyphenation exceptions out of 8191
- 42i,14n,44p,325b,1218s stack positions out of 5000i,500n,6000p,200000b,5000s
- </home/najmi/.texmf-var/fonts/pk/ljfour/jknappen/ec/tctt1000.600pk>{/usr/sha
-re/texmf-texlive/fonts/enc/dvips/base/8r.enc} </home/najmi/.texmf-var/fonts/pk/
-ljfour/jknappen/ec/tcrm1000.600pk></usr/share/texmf-texlive/fonts/type1/bluesky
-/cm/cmbx10.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmbx12.pfb></us
-r/share/texmf-texlive/fonts/type1/bluesky/cm/cmbx7.pfb></usr/share/texmf-texliv
-e/fonts/type1/bluesky/cm/cmbx8.pfb></usr/share/texmf-texlive/fonts/type1/bluesk
-y/cm/cmbxti10.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmcsc10.pfb>
-</usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmmi10.pfb></usr/share/texmf-t
-exlive/fonts/type1/bluesky/cm/cmmi7.pfb></usr/share/texmf-texlive/fonts/type1/b
-luesky/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr5.pfb><
-/usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr7.pfb></usr/share/texmf-texl
-ive/fonts/type1/bluesky/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/blues
-ky/cm/cmsl10.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsl8.pfb></u
-sr/share/texmf-texlive/fonts/type1/bluesky/cm/cmsy10.pfb></usr/share/texmf-texl
-ive/fonts/type1/bluesky/cm/cmsy6.pfb></usr/share/texmf-texlive/fonts/type1/blue
-sky/cm/cmsy7.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmti10.pfb></
-usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmtt10.pfb></usr/share/texmf-tex
-live/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-texlive/fonts/type1/
-public/arabtex/xnsh14.pfb></usr/share/texmf-texlive/fonts/type1/public/arabtex/
-xnsh14bf.pfb>
-Output written on book.pdf (34 pages, 265645 bytes).
+ 37i,11n,43p,328b,362s stack positions out of 5000i,500n,6000p,200000b,5000s
+</usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmbx10.pfb></usr/share/texmf
+-texlive/fonts/type1/bluesky/cm/cmbx12.pfb></usr/share/texmf-texlive/fonts/type
+1/bluesky/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmtt10.
+pfb>
+Output written on book.pdf (4 pages, 28091 bytes).
 PDF statistics:
- 493 PDF objects out of 1000 (max. 8388607)
- 108 named destinations out of 1000 (max. 131072)
- 251 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 71 PDF objects out of 1000 (max. 8388607)
+ 13 named destinations out of 1000 (max. 131072)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

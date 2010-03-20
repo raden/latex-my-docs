@@ -1,38 +1,4 @@
 \select@language {bahasam}
 \contentsline {chapter}{Kandungan}{i}{section*.1}
-\contentsline {chapter}{Senarai Rajah}{iii}{section*.2}
-\contentsline {chapter}{Kata Pengantar}{v}{chapter*.3}
-\contentsline {chapter}{\color {red}{PENAFIAN}}{vii}{chapter*.4}
-\contentsline {chapter}{\chapternumberline {1}Pengenalan}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}Pengenalan}{1}{section.1.1}
-\contentsline {subsection}{Platform}{1}{section.1.1}
-\contentsline {subsection}{Sokongan}{1}{section.1.1}
-\contentsline {section}{\numberline {1.2}Sampel yang dihasilkan menggunakan \LaTeX }{1}{section.1.2}
-\contentsline {section}{\numberline {1.3}Font yang disokong oleh \LaTeX }{2}{section.1.3}
-\contentsline {section}{\numberline {1.4}Kenapa guna \LaTeX ?}{2}{section.1.4}
-\contentsline {section}{\numberline {1.5}Mendapatkan pakej \LaTeX }{2}{section.1.5}
-\contentsline {subsubsection}{Windows}{2}{section.1.5}
-\contentsline {subsubsection}{Linux}{3}{section.1.5}
-\contentsline {chapter}{\chapternumberline {2}Jom Belajar \LaTeX {}!}{5}{chapter.2}
-\contentsline {section}{\numberline {2.1}Belajar \LaTeX {} susahlah!}{5}{section.2.1}
-\contentsline {section}{\numberline {2.2}Mengenali format \LaTeX }{5}{section.2.2}
-\contentsline {section}{\numberline {2.3}Bentuk penulisan}{5}{section.2.3}
-\contentsline {subsection}{Kelas article}{6}{section.2.3}
-\contentsline {section}{\numberline {2.4}Bagaimana \LaTeX {} menghasilkan dokumen?}{6}{section.2.4}
-\contentsline {section}{\numberline {2.5}Pakej di dalam \LaTeX {}}{7}{section.2.5}
-\contentsline {chapter}{\chapternumberline {3}Format Tulisan}{9}{chapter.3}
-\contentsline {section}{\numberline {3.1}Pelbagai jenis format tulisan}{9}{section.3.1}
-\contentsline {chapter}{\chapternumberline {4}Membuat senarai}{11}{chapter.4}
-\contentsline {section}{\numberline {4.1}Bina senarai menggunakan \LaTeX {}}{11}{section.4.1}
-\contentsline {chapter}{\chapternumberline {5}Penulisan artikel}{13}{chapter.5}
-\contentsline {section}{\numberline {5.1}Artikel komputer}{13}{section.5.1}
-\contentsline {section}{\numberline {5.2}Artikel dengan formula matematik}{14}{section.5.2}
-\contentsline {subsection}{Contoh formula matematik}{14}{section.5.2}
-\contentsline {subsubsection}{Punca kuasa}{14}{section.5.2}
-\contentsline {subsubsection}{Kuasa}{14}{section.5.2}
-\contentsline {chapter}{\chapternumberline {6}Slaid persembahan}{17}{chapter.6}
-\contentsline {section}{\numberline {6.1}Membuat slaid persembahan dengan \LaTeX {} beamer}{17}{section.6.1}
-\contentsline {subsection}{Bingkai (\emph {frame})}{17}{section.6.1}
-\contentsline {chapter}{Rujukan}{21}{section*.6}
-\contentsline {section}{Index}{24}{chapter*.7}
-\contentsline {chapter}{Indeks}{25}{section*.8}
+\contentsline {chapter}{Senarai Rajah}{ii}{section*.2}
+\contentsline {chapter}{Rujukan}{1}{section*.4}
