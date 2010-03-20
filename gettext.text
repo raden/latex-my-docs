@@ -1,8 +1,0 @@
-\begin{Verbatim}[commandchars=@\[\]]
-@PYbc[import] @PYaV[gettext]
-gettext@PYbe[.]bindtextdomain (@PYaB[']@PYaB[piton]@PYaB['],@PYaB[']@PYaB[/usr/share/locale]@PYaB['])
-gettext@PYbe[.]textdomain(@PYaB[']@PYaB[piton]@PYaB['])
-_@PYbe[=] gettext@PYbe[.]gettext
-@PYay[print] _(@PYaB[']@PYaB[python adalah mudah]@PYaB['])
-@PYay[print] _(@PYaB[']@PYaB[semudah ini]@PYaB['])
-\end{Verbatim}

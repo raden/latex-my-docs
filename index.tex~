@@ -1,5 +1,0 @@
-\chaptername{Indeks}
-\addcontentsline{toc}{section}{Index} 
-\printindex
- \index{mainentry # subentry}
-\index{title}
