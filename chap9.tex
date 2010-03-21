@@ -4,7 +4,8 @@
 
 Secara asasnya, sepanjang yang penulis ketahui tulisan Arab di dalam Arab\TeX{} dihasilkan menggunakan huruf-huruf Roman seperti berikut:\\
 
-\begin{figure}[h!tb]
+\begin{minipage}{\linewidth}
+%\begin{figure}[h!tb]
 \begin{center}
 \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|c|}
 \hline
@@ -25,8 +26,11 @@ Secara asasnya, sepanjang yang penulis ketahui tulisan Arab di dalam Arab\TeX{} 
 \hline
 \end{tabular}
 \end{center}
+\end{minipage}\\
 
-Huruf asing, yang bukan Arab:\smallskip
+Huruf asing, yang bukan Arab:\\
+\bigskip
+\begin{minipage}{\linewidth}
 \begin{center}
 \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
 \hline
@@ -37,17 +41,20 @@ Huruf asing, yang bukan Arab:\smallskip
 \hline
 \end{tabular}
 \end{center}
-\caption{Susunatur huruf dan bagaimana untuk anda tulis di dalam teks \ArabTeX{}\cite{paut-arab}}
+\captionof{figure}{Susunatur huruf dan bagaimana untuk anda tulis di dalam teks Arab\TeX{}}%\cite{paut-arab}}
+%\footnote{http://www.win.tue.nl/~aeb/natlang/arabic/arabtex-verb-doc.html}}
 \label{arab-rujuk}
-\end{figure}
+%\end{figure}
+\end{minipage}
 
-Jadual \ref{arab-rujuk} ini turut memaparkan bagaimana untuk anda menulis Jawi di dalam Arab\TeX{}.
+Jadual \ref{arab-rujuk} ini turut memaparkan bagaimana untuk anda menulis Jawi di dalam Arab\TeX{} yang diambil dari sumber asalnya (lihat nombor rujukan di bahagian belakang buku ini)\cite{paut-arab}.
 
 
 \section{\emph{alqalam}}
 Pakej ini membolehkan anda memasukkan teks al-quran, atau mencetak teks al-quran di dalam tulisan anda.
 Kita tengok contoh kod yang dimuatkan di dalam sampel dari dokumentasi alqalam. Surah yang dipaparkan berikut merupakan sebahagian ayat dari
-Surah as Sajadah, kod sumber \latex{} boleh dimuat turun di laman mirror Debian untuk alqalam. \cite{paut-kalam}.
+Surah as Sajadah, kod sumber \latex{} boleh dimuat turun di laman mirror Debian untuk alqalam.%\footnote{http://ftp.de.debian.org/debian/pool/main/a/alqalam/alqalam\_0.2.orig.tar.gz}
+\cite{paut-kalam}.
 %\lstset{inputencoding=utf8x, extendedchars=\true}
 %
 %\begin{Verbatim}[frame=single]
@@ -63,7 +70,7 @@ Surah as Sajadah, kod sumber \latex{} boleh dimuat turun di laman mirror Debian 
 \begin{center}
 
 %\fbox{
-\includegraphics[scale=0.6]{sajdah_1.png}
+%\includegraphics[scale=0.6]{sajdah_1.png}
 %}
 \end{center}
 \end{minipage}
